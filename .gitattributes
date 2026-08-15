@@ -38,7 +38,7 @@
 ###############################################################################
 # behavior for image files
 #
-# image files are treated as binary by default.
+# image files are treated as binary by default. 
 ###############################################################################
 #*.jpg   binary
 #*.png   binary
